@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sharat005&theme=vue)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+## Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharat005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
