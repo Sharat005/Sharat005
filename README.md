@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sharat005&theme=vue-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sharat005&theme=vue)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![Sharat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sharat005)](https://github.com/anuraghazra/github-readme-stats)
+
 
