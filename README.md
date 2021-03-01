@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Sharat005&count_private=true&include_all_commits=true&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sharat005)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
