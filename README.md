@@ -3,10 +3,10 @@
 # Sharat Naik
 
 
-**Sharat005/Sharat005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Sharat005/Sharat005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+ -->
 - 🔭 I’m currently working on building some Django + React projects.
 - 🌱 I’m currently learning Database Systems by Diana diaz at UIC, Machine Learning by Andrew NG at Stanford.
 - 👯 I’m looking to collaborate on Software Dev and DL Projects.
