@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Sharat Naik
+# I am Sharat Naik
 
 
 <!-- **Sharat005/Sharat005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
