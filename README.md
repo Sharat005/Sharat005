@@ -7,8 +7,8 @@
 
 Here are some ideas to get you started:
  -->
-- 🔭 I’m currently working on AI health coach project under Prof. Brian Ziebart at UIC.
-- 🌱 I’m currently learning Natural language processing at UIC, Programming languages design at UIC
+- 🔭 I’m currently working on AI health coach project under Prof. Brian Ziebart at UIC and Teaching assistant for 341 Programming languages design coourse.
+- 🌱 I’m currently learning Natural language processing at UIC.
 - 👯 I’m looking to collaborate on Software Dev Projects.- 🤔 I’m looking for help with ML and Deep learning projects.
 - 💬 Ask me about Full Stack development and Product Ideas.
 - 📫 How to reach me: Email or LinkedIn
