@@ -7,10 +7,9 @@
 
 Here are some ideas to get you started:
  -->
-- 🔭 I’m currently working on building some Django + React projects.
-- 🌱 I’m currently learning Database Systems by Diana diaz at UIC, Machine Learning by Andrew NG at Stanford.
-- 👯 I’m looking to collaborate on Software Dev and DL Projects.
-- 🤔 I’m looking for help with ML and Deep learning projects.
+- 🔭 I’m currently working on AI health coach project under Prof. Brian Ziebart at UIC.
+- 🌱 I’m currently learning Natural language processing at UIC, Programming languages design at UIC
+- 👯 I’m looking to collaborate on Software Dev Projects.- 🤔 I’m looking for help with ML and Deep learning projects.
 - 💬 Ask me about Full Stack development and Product Ideas.
 - 📫 How to reach me: Email or LinkedIn
 - 😄 Pronouns: HE/HIM
