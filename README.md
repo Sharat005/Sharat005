@@ -26,4 +26,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharat005&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- ACTIVITY GRAPH TRACKER -->
+[![sharat's github activity graph](https://activity-graph.herokuapp.com/graph?username=sharat005&theme=react-dark)](https://github.com/sharat005/github-readme-activity-graph)
+
 
