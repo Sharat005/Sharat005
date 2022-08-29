@@ -8,9 +8,9 @@
 Here are some ideas to get you started:
  -->
 - 🔭 I’m currently working on AI health coach project under Prof. Brian Ziebart at UIC and also a Teaching assistant for Programming languages design course.
-- 🌱 I’m currently learning Natural language processing at UIC.
+- 🌱 I’m currently learning Applied AI and Quantum computing at UIC.
 - 👯 I’m looking to collaborate on Software Dev Projects.
-- 🤔 I’m looking for help with ML and Deep learning projects.
+- 🤔 I’m looking for help with AI and Deep learning projects.
 - 💬 Ask me about Full Stack development and Product Ideas.
 - 📫 How to reach me: Email or LinkedIn
 - 😄 Pronouns: HE/HIM
